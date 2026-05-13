@@ -88,4 +88,5 @@ for calibrating them!
 
 Actually, these type of sensors measure in real only the electrical conductivity and uses some "standard soil" mixture to provide multiplication factors for the other parameters. Or, they measure the so called "dielectric constant" of the material. 
 
+Chk for other sensors specs
 
