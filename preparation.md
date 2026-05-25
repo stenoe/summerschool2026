@@ -76,6 +76,12 @@ Audience are PhD but as well master and advanced bachelor level students.
 
 ## Possible tasks
 
+### Overall needed
+
+- organise a "Summerschool server" to store and share all data that will be produced during the BIP
+- get the "shopping lists" done. We need ESPs, wires, 
+- Mobile phones (10 pcs, 9 available 1 with Uli), load their akkus
+
 ### Serial driver sensors
 
 When deploying the 7-in-one sensor we should try to see how much differernt we
@@ -86,7 +92,29 @@ for calibrating them!
 - Define fallen tree degradation to place the sensor
 - Define "wetness" of places for deployment
 
-Actually, these type of sensors measure in real only the electrical conductivity and uses some "standard soil" mixture to provide multiplication factors for the other parameters. Or, they measure the so called "dielectric constant" of the material. 
+Actually, these types of sensors measure in real only the electrical conductivity and uses some "standard soil" mixture to provide multiplication factors for the other parameters. Or, they measure the so called "dielectric constant" of the material. 
 
 Chk for other sensors specs
+
+
+### Water table measurements
+
+Things we need to order / organise beforehand
+
+- Check how many pressure sensors we still have and buy if more are needed
+- Check the voltage enhancer get enough for the aimed number of measurements
+- pipes
+- geotextile
+- mesh
+- rent the drill gear
+- measurement equipment for water depth
+- drilling machine and drills for pipe holes that water can enter
+- build the systems Maybe we need here again Raspberry Pi systems (check if we can do with ESP alone!)
+
+Tasks we can do with the students:
+
+- Calibate the systems by generating depth / Voltage data 
+- Calculate for each sensor the calibration coefficient
+- measure the drilled hole depth to know the sensor's distance from soil level
+
 
