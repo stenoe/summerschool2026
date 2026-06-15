@@ -18,7 +18,7 @@ Vaisala CO2 sensor deployment to small racks that can be put to the forest.
 
 - DHT22 air temperature sensor. Need some housing solution when deployed to forest.
 
-- DSM501A dust sensor, Particulate matter and density. Need check if it is much impacted by fog. 
+- DSM501A dust sensor, Particulate matter and density. Need check if it is much impacted by fog. Probably is affected by Fog, we could try to prevent this with heating tube or silica gel filter. SDS011 is a little bit more robust and differentiate between PM10 and PM2.5. PMS7003 has a nice feature to differentiate between PM10, PM2.5 and PM1.0 (maybe this one).
 
 Some thoughts from the current info: we need to check if the timestamp is at UTC and not local time. We need also to avoid daytime switching to be compatible with the SMEAR datalogging schema.
 
