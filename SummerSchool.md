@@ -26,7 +26,7 @@ b. principles of planning scientific experiments
 c. project and time management skills.
 
 
-Teachers: Prof. Steffen M. Noe, Prof. Emilio Mercuri, Prof. Ahto Kangur, The course lecturers and assistants are from the Institute of Forestry and Engineering, Estonian University of Life Sciences and the Institute of Computer Sciences, Tartu University.
+Teachers: Steffen M. Noe, Emilio Mercuri, Ahto Kangur, Renato Perotto.  The course lecturers and assistants are from the Institute of Forestry and Engineering, Estonian University of Life Sciences, Environmental Engineering Department of the Federal University of Paraná, Brazil, and the Institute of Computer Sciences, Tartu University.
 
 
 
