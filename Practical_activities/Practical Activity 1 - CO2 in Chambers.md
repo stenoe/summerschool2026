@@ -6,6 +6,13 @@
 
 ---
 
+## Experimental Setup
+
+![IoT chamber with plant, sensors and Raspberry Pi](./chamber+sensor+rasp.png)
+
+*Figure 1. Experimental chamber used during the practical activity. The transparent chamber contains a potted plant monitored by a Sensirion SCD4x photoacoustic CO₂ sensor, temperature and relative humidity sensors connected to a Raspberry Pi for real-time IoT data acquisition.*
+
+
 ## Learning Objectives
 
 By the end of this activity, participants will be able to:
