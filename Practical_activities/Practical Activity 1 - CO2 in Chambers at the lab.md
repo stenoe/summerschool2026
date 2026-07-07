@@ -1,4 +1,4 @@
-# Practical Activity 1 – Measuring Plant Photosynthesis and Respiration Using an IoT Monitoring Chamber
+# Practical Activity 1 – Measuring Plant Photosynthesis and Respiration Using an IoT Monitoring Chamber at the lab
 
 ## Title
 
