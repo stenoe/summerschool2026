@@ -6,6 +6,17 @@
 
 ---
 
+<p align="center">
+  <img src="./PM_at_the_tower.png" width="500">
+</p>
+
+<p align="center">
+<b>Figure 1.</b> Instalation of Particulate Matter sensors at the tower.
+</p>
+
+
+
+
 ## Learning Objectives
 
 By the end of this activity, participants will be able to:
