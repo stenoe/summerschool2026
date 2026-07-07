@@ -9,7 +9,7 @@
 ## Experimental Setup
 
 <p align="center">
-  <img src="./chamber+sensor+rasp.png" width="300">
+  <img src="./chamber+sensor+rasp.png" width="500">
 </p>
 
 <p align="center">
