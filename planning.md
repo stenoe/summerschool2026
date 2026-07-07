@@ -12,6 +12,12 @@
 
 - mics and Raspberries
 - LED panels
+- Sound cards
+- 8 M5sticks
+- 7 in 1 senors
+- 5 Mango routers
+- Glue gun
+- Soldering iron
 
 
 ## Fedir
