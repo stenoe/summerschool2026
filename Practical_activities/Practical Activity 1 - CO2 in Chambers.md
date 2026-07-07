@@ -48,7 +48,7 @@ Each student group will:
 - Install the plants inside transparent monitoring chambers.
 - Connect each chamber to an IoT monitoring system built around a Raspberry Pi.
 - Install environmental sensors for continuous monitoring.
-- Configure automatic data acquisition.
+- Configure automatic data acquisition using MING (MQTT, Influxdb, Node-Red and Grafana)
 - Monitor environmental variables throughout the experiment.
 
 ## Sensors
