@@ -28,13 +28,14 @@
 
 ## Equipment ordered
 
-- 4 water pressure sensors
-
+- 4 water pressure sensors (prop. arrival 13.07)
+- 4 DC-DC modules (prop. arrival 13.07)
+- 3 Serial RS232 - TTL/UART converters (prop. arrival 13.07)
+- 7 Power banks 
+- 10 fans 4x4cm 5V (prop. arrival 10.07)
 
 
 ## Eqiupment to be still bought
-
-Power banks
 
 Rasberries
 
@@ -42,19 +43,23 @@ Weather resistance boxes
 
 Pipes for sensor houses
 
-fans
- 
-RS 232 to UART adapters 
-
-
-
-
-
-
 
 ## Calibration 
 
 - CO2 sensors  ( can be also made against Vaisala sensor )
 - water sensors ( Lake depth  measurement )
 - soil (7-in-1) ( soil humidity, dry to fully wet )
+
+## Stuff to take with us
+
+### Steffen 
+
+- usb cable mouses 
+- hot glue (chk how much we still have)
+- mobile phones
+
+### Renato
+
+- solder kit
+
 
