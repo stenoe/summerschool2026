@@ -26,12 +26,17 @@
 (need chk to get adapters!)
 
 
+## Steffen
+
+- 7 Power banks 
+- 10 mobile phones
+
+
 ## Equipment ordered
 
 - 4 water pressure sensors (prop. arrival 13.07)
 - 4 DC-DC modules (prop. arrival 13.07)
 - 3 Serial RS232 - TTL/UART converters (prop. arrival 13.07)
-- 7 Power banks 
 - 10 fans 4x4cm 5V (prop. arrival 10.07)
 
 
@@ -56,10 +61,8 @@ Pipes for sensor houses
 
 - usb cable mouses 
 - hot glue (chk how much we still have)
-- mobile phones
 
-### Renato
 
-- solder kit
+
 
 
