@@ -1,6 +1,6 @@
 ## Sensors Instalation Codes
 
-Levels and Chip IDs:
+Levels - Sensors and Chip IDs:
 
 
 Level 1 - pms7003 () scd41 (ESP-C0075C)
