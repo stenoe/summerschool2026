@@ -1,0 +1,43 @@
+[
+    {
+        "id": "8c3842c3af602f27",
+        "type": "influxdb out",
+        "z": "b8c620db2066a2b4",
+        "influxdb": "8c46beb4289a8e17",
+        "name": "",
+        "measurement": "PMCO2",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "lactea",
+        "bucket": "sensordata",
+        "x": 860,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "8c46beb4289a8e17",
+        "type": "influxdb",
+        "hostname": "localhost",
+        "port": 8086,
+        "protocol": "http",
+        "database": "database",
+        "name": "",
+        "usetls": false,
+        "tls": "",
+        "influxdbVersion": "2.0",
+        "url": "http://localhost:8086",
+        "timeout": 10,
+        "rejectUnauthorized": true
+    },
+    {
+        "id": "6ec1fe3208dc9f96",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-contrib-influxdb": "0.7.0"
+        }
+    }
+]
